@@ -11,6 +11,9 @@ public class ApiGatewayApplication {
 		//test
 
 		// Chang dev 1
+
+		// Chang dev 2
+
 		SpringApplication.run(ApiGatewayApplication.class, args);
 	}
 
