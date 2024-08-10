@@ -9,11 +9,6 @@ import lombok.experimental.FieldDefaults;
 @Builder
 @FieldDefaults(level = AccessLevel.PRIVATE)
 public class IntrospectRequest {
-    //change to token
-    //change 2
-    //change 2
-    //change 3
-    //change 34
-    //change 34
+//wtf
     String token;
 }
