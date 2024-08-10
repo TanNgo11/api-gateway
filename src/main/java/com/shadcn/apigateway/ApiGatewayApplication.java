@@ -9,6 +9,8 @@ public class ApiGatewayApplication {
 	public static void main(String[] args) {
 		// tests
 		//test
+
+		// Chang dev 1
 		SpringApplication.run(ApiGatewayApplication.class, args);
 	}
 
