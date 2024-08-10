@@ -7,6 +7,13 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class ApiGatewayApplication {
 
 	public static void main(String[] args) {
+		// tests
+		//test
+
+		// Chang dev 1
+
+		// Chang dev 2
+
 		SpringApplication.run(ApiGatewayApplication.class, args);
 	}
 
