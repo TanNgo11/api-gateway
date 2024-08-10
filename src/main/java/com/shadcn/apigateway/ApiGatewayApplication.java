@@ -16,6 +16,7 @@ public class ApiGatewayApplication {
 		// Chang dev 3
 		// Chang dev 4
 		// Chang dev 5
+		// Chang dev 6
 
 		SpringApplication.run(ApiGatewayApplication.class, args);
 	}
